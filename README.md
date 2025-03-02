@@ -12,6 +12,16 @@ A beautiful weather application built with Flutter that displays current weather
 - 🔄 Pull-to-refresh for updated data
 - ✨ Beautiful animations and transitions
 
+### Screenshots
+<p align="center">
+  <img src="assets/screenshots/1.jpg" width="30%" alt="Screenshot 1">
+  <img src="assets/screenshots/2.jpg" width="30%" alt="Screenshot 2">
+  <img src="assets/screenshots/3.jpg" width="30%" alt="Screenshot 3">
+</p>
+<p align="center">
+  <img src="assets/screenshots/4.jpg" width="30%" alt="Screenshot 4">
+</p>
+
 ## Setup Instructions
 
 ### 1. Get API Key
